@@ -48,6 +48,7 @@ function FeedbackForm() {
         addFeedback(newFeedback);
       }
       setText('');
+      setBtnDisabled(true);
     }
   };
 
