@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "text": "I am the developer's cousin",
+      "rating": 10
+    },
+    {
+      "id": 2,
+      "text": "Worst App ever, give me back my money",
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "text": "I was very happy with the app",
+      "rating": 10
+    },
+    {
+      "text": "this is a test",
+      "rating": 4,
+      "id": 4
+    }
+  ]
+}
